@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Permanent+Marker", sans-serif;
-  --font-secondary: "Shizuru", serif;
-  --font-code: "Permanent+Marker", monospace;
+  --font-primary: "Permanent+Marker", cursive;
+  --font-secondary: "Shizuru", cursive;
+  --font-code: "Permanent+Marker", cursive;
   --bg-color: #00163f;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
