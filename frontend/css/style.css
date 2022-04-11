@@ -7,7 +7,7 @@
 :root {
   --font-primary: "Permanent+Marker", sans-serif;
   --font-secondary: "Shizuru", serif;
-  --font-code: "Roboto", monospace;
+  --font-code: "Permanent+Marker", monospace;
   --bg-color: #00163f;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
